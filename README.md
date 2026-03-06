@@ -1,16 +1,39 @@
-## Hi there 👋
+# Mohammed Al-Namlan
 
-<!--
-**MOHAM-ALT/MOHAM-ALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Builder & Automation Developer** · Riyadh, Saudi Arabia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical tools that solve real problems — from smart NFC platforms to automated workflows.  
+I work with AI-assisted development (Claude + VS Code) and focus on shipping things that actually work.
+
+---
+
+## Projects
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| [Maroof SaaS](https://github.com/MOHAM-ALT) | Laravel 12 · Filament 5 · NFC | 🔨 In Progress |
+| [Jadarat Auto](https://github.com/MOHAM-ALT/jadarat-auto) | Chrome Extension · JavaScript | ✅ Live |
+| VAS — VIP Arrival System | NestJS · Prisma · PostgreSQL | 🔒 Private |
+
+---
+
+## What I Work With
+
+`NestJS` `Laravel` `PostgreSQL` `Prisma`  
+`n8n` `Python` `AutoHotkey` `Chrome Extensions`  
+`Docker` `TypeScript` `Claude AI`
+
+---
+
+## Approach
+
+I use AI-assisted development to build faster without cutting corners.  
+Every project here started as a real problem — then became a working solution.
+
+---
+
+## Contact
+
+**Email:** mohammed.alnamlan.q@gmail.com
