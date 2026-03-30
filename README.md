@@ -5,7 +5,7 @@
 ---
 
 I build practical tools that solve real problems — from smart NFC platforms to automated workflows.  
-I work with AI-assisted development (Claude + VS Code) and focus on shipping things that actually work.
+I work with AI-assisted development (Local AI + VS Code) and focus on shipping things that actually work.
 
 ---
 
@@ -23,7 +23,7 @@ I work with AI-assisted development (Claude + VS Code) and focus on shipping thi
 
 `NestJS` `Laravel` `PostgreSQL` `Prisma`  
 `n8n` `Python` `AutoHotkey` `Chrome Extensions`  
-`Docker` `TypeScript` `Claude AI`
+`Docker` `TypeScript` `Local AI`
 
 ---
 
